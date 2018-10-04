@@ -1,8 +1,7 @@
 package = "jwt"
 version = "0.5-2"
 source = {
-  url = "https://github.com/Olivine-Labs/lua-jwt/archive/v0.5.tar.gz",
-  dir = "lua-jwt-0.5"
+  url = "git://github.com/Olivine-Labs/lua-jwt.git",
 }
 description = {
   summary = "A library for encoding and decoding json web tokens.",
